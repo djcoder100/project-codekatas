@@ -16,6 +16,13 @@ To start a web server for the application, run:
 
     lein ring server
 
+## Usage
+http://localhost:3000/  <-- Create codes
+http://localhost:3000/dump
+http://localhost:3000/message
+http://localhost:3000/bbc <-- redirect
+
+
 ## License
 
 Copyright © 2016 FIXME
